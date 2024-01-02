@@ -1,0 +1,229 @@
+company_id,name,industry,employee_count,linkedin_followers
+ltimindtree,LTIMindtree,IT Services and IT Consulting,99684,3527356
+satsure,SatSure,Space Research and Technology,145,29708
+affine,Affine,Business Consulting and Services,479,70274
+aiseo-ai,AISEO.ai,Software Development,6,1141
+puresoftware,PureSoftware Ltd,IT Services and IT Consulting,1076,143258
+credgenics,Credgenics,Financial Services,433,80290
+revolut,Revolut,Financial Services,10271,804969
+equifax,Equifax,Financial Services,14736,196339
+infosys,Infosys,IT Services and IT Consulting,324702,8093909
+gartner,Gartner,Information Services,22204,1661431
+masai-school,Masai,Higher Education,821,60720
+xerox,Xerox,Business Consulting and Services,52121,920935
+idinsight,IDinsight,Research Services,394,39797
+optym-,Optym,Software Development,250,110180
+applicantz-com,Applicantz,"Technology, Information and Internet",186,502272
+internet-brands,Internet Brands,"Technology, Information and Internet",5916,68168
+haleon,Haleon,Consumer Services,13088,152161
+htc-global-services,HTC Global Services,IT Services and IT Consulting,11194,658932
+icicidirect,ICICIdirect,Financial Services,6456,125784
+exxonmobil,ExxonMobil,Oil and Gas,59948,2875152
+kpmgindia,KPMG India,Business Consulting and Services,28125,1959994
+microsoft,Microsoft,Software Development,225025,21101881
+ibm,IBM,IT Services and IT Consulting,315205,15677042
+benchire,Benchire,Staffing and Recruiting,15,29316
+tech-mahindra,Tech Mahindra,IT Services and IT Consulting,161764,5326419
+tridentconsulting,Trident Consulting,IT Services and IT Consulting,175,59028
+deloitte,Deloitte,Business Consulting and Services,427638,14060577
+adani-group,Adani Group,Utilities,10176,1585707
+wood-mackenzie,Wood Mackenzie,Information Services,2258,295858
+virtusa,Virtusa,IT Services and IT Consulting,18294,1111502
+onetrust,OneTrust,Software Development,2485,263526
+thedarwinbox,Darwinbox,IT Services and IT Consulting,1213,91313
+cashfree,Cashfree Payments,Financial Services,826,148146
+concentrix,Concentrix,IT Services and IT Consulting,152793,1672119
+xceedance,Xceedance,Insurance,3014,111846
+boston-consulting-group,Boston Consulting Group (BCG),Business Consulting and Services,35131,4121815
+goldman-sachs,Goldman Sachs,Financial Services,54938,4074905
+google,Google,Software Development,288582,31199828
+sterimax-inc-,SteriMax Inc.,Pharmaceutical Manufacturing,140,22749
+accentureindia,Accenture in India,IT Services and IT Consulting,48882,2028854
+natwest-group,NatWest Group,Banking,39865,583321
+ubs,UBS,Financial Services,76900,1432199
+visa,Visa,IT Services and IT Consulting,25009,1531534
+hexaware-technologies,Hexaware Technologies,IT Services and IT Consulting,26838,1147538
+genpact,Genpact,Business Consulting and Services,142299,3449160
+revature,Revature,IT Services and IT Consulting,1535,126497
+healthedge,HealthEdge,Software Development,1569,66850
+wework-india,WeWork India,Real Estate,447,86647
+sage-software,Sage,Software Development,14365,470006
+wipro,Wipro,IT Services and IT Consulting,237387,8021738
+bp,bp,Oil and Gas,65916,3398485
+geminitrust,Gemini,Financial Services,1068,214336
+teleperformance,Teleperformance,Outsourcing and Offshoring Consulting,219124,2037791
+forbes-advisor,Forbes Advisor,Consumer Services,561,212081
+oracle,Oracle,IT Services and IT Consulting,204131,9192939
+aditiconsulting,Aditi Consulting,IT Services and IT Consulting,863,408266
+wtwcorporate,WTW,Financial Services,50283,875176
+l&t-technology-services-limited,L&T Technology Services,IT Services and IT Consulting,34802,3791689
+ansys-inc,Ansys,Software Development,7311,262120
+fractal-analytics,Fractal,Business Consulting and Services,4517,592945
+nutanix,Nutanix,Software Development,7624,448944
+media.net,Media.net,"Technology, Information and Internet",2228,323694
+hdfc-bank,HDFC Bank,Banking,192043,2451093
+harman-international,HARMAN International,Computers and Electronics Manufacturing,26184,458264
+sedemac-mechatronics,SEDEMAC,Motor Vehicle Manufacturing,600,48836
+cuemath,Cuemath,E-Learning Providers,2477,160036
+zoominfo,ZoomInfo,Software Development,4072,124174
+fidelity-international,Fidelity International,Financial Services,9857,244210
+phenomtxm,Phenom,Software Development,1621,61963
+vimeo,Vimeo,Software Development,1318,122516
+cognizant,Cognizant,IT Services and IT Consulting,301207,6891245
+luxoft,Luxoft,IT Services and IT Consulting,17513,1549427
+logitech,Logitech,Computers and Electronics Manufacturing,7770,260229
+black-box,Black Box,IT Services and IT Consulting,5165,272310
+netvagas,Netvagas,Software Development,26,193274
+zocdoc,Zocdoc,Internet Publishing,1088,100473
+tutoring-maphy,Tutoring Maphy,E-Learning Providers,1,683
+crossover,Crossover,IT Services and IT Consulting,2434,6791957
+nomura,Nomura,Financial Services,14052,464288
+gainsight,Gainsight,Software Development,1311,115820
+black-and-veatch,Black & Veatch,Engineering Services,10763,322544
+quess-it-staffing,Quess IT Staffing,Staffing and Recruiting,1194,406884
+tesco-bengaluru,Tesco Bengaluru,Retail,3678,339631
+tresvista,TresVista,Financial Services,144,84916
+walker-digital-table-systems,"Walker Digital Table Systems, LLC",Gambling Facilities and Casinos,84,13989
+pwc-india,PwC India,Business Consulting and Services,22273,1414075
+millerknoll,MillerKnoll,Design Services,9318,53303
+weareuplers,Uplers,Software Development,1192,973879
+opentext,OpenText,Software Development,21553,356925
+nissan-motor-corporation,Nissan Motor Corporation,Motor Vehicle Manufacturing,41230,1473540
+fleetcor,FLEETCOR,Financial Services,7077,175434
+maersk-group,A.P. Moller - Maersk,"Transportation, Logistics, Supply Chain and Storage",68186,1750064
+arm,Arm,Semiconductor Manufacturing,8322,428889
+eptura,Eptura,Software Development,616,50016
+abbott-,Abbott,Hospitals and Health Care,131426,3384944
+allstateindia,Allstate India,IT Services and IT Consulting,3766,126058
+wellsfargo,Wells Fargo,Financial Services,201966,2078670
+clapingo,Clapingo,E-Learning Providers,179,18124
+newtracetech,Newtrace,Renewable Energy Equipment Manufacturing,30,3052
+oswaal-books,Oswaal Books,Book and Periodical Publishing,258,17705
+worley,Worley,Professional Services,42400,1332249
+centralogic,CentraLogic,Information Technology & Services,74,9710
+tridentgroupglobal,Trident Group India,Textile Manufacturing,4263,221911
+vap-group,VAP Group,IT Services and IT Consulting,204,115980
+waitechnologies,WAi Technologies,IT Services and IT Consulting,196,7772
+globalblockchainshow,Global Blockchain Show,Events Services,8,22501
+airline-prep-school,Airline Prep School,Airlines and Aviation,6,1594
+brdg-group,BRDG Brands India,International Trade and Development,8,1578
+attriai,Attri,Software Development,22,4752
+moonstarinteractive,GAMEDUELS,Entertainment Providers,19,4891
+predis-ai,Predis.ai,"Technology, Information and Internet",13,3623
+jamesons-info-solutions,Jamesons Info Solutions,IT Services and IT Consulting,38,3567
+bread-financial,Bread Financial,Financial Services,3279,98223
+bizconnectedstars,ConnectedStars,Business Consulting and Services,16,1885
+futurism-technologies,"Futurism Technologies, INC.",IT Services and IT Consulting,543,34776
+response-informatics-ltd,Response Informatics,IT Services and IT Consulting,138,83200
+effivity-technologies-pvt--ltd-,Effivity Technologies Pvt. Ltd.,IT Services and IT Consulting,24,1347
+dentsu,dentsu,Advertising Services,13875,1139381
+bombay-play,Bombay Play,Computer Games,64,10957
+myflighttrip,My Flight Trip,"Leisure, Travel & Tourism",22,4426
+asteroidxinc,AsteroidX,Advertising Services,58,17537
+headhunting-pte-ltd,Headhunting,Staffing and Recruiting,5,23060
+conneqt-digital,Conneqt Digital,IT Services and IT Consulting,260,44455
+amaha,Amaha (formerly InnerHour),Mental Health Care,183,37369
+eli-lilly-and-company,Eli Lilly and Company,Pharmaceutical Manufacturing,41455,1639659
+coutloot,CoutLoot,Consumer Services,100,44366
+ulsolutions,UL Solutions,International Trade and Development,13336,325380
+zetaglobal,Zeta Global,Marketing Services,1696,34950
+epam-systems,EPAM Systems,IT Services and IT Consulting,55443,1209755
+novo-hq,Novo,Financial Services,396,19712
+usebraintrust,Braintrust,"Technology, Information and Internet",259,830727
+honeywell,Honeywell,"Appliances, Electrical, and Electronics Manufacturing",129697,2631961
+providence-india,Providence India,Hospitals and Health Care,865,25855
+nvidia,NVIDIA,Computer Hardware Manufacturing,27968,1939717
+voya-india,Voya India,Financial Services,500,9386
+klacorp,KLA,Semiconductor Manufacturing,13664,301391
+concertai,ConcertAI,Biotechnology Research,817,29736
+trinitylifesciences,Trinity Life Sciences,Business Consulting and Services,1478,95668
+cgi,CGI,IT Services and IT Consulting,67677,1317992
+rocket-software,Rocket Software,IT Services and IT Consulting,3426,44730
+kloud9nyc,Kloud9 LLC,IT Services and IT Consulting,129,39580
+deliveroo,Deliveroo,Internet Marketplace Platforms,9094,217224
+outcomes-by-insightsoftware,insightsoftware,Software Development,1896,215324
+cimpress-india,Cimpress India,Software Development,1259,217473
+systemsofttech,System Soft Technologies,IT Services and IT Consulting,809,387410
+pay2dc,Pay2 Development Center Private Limited,Software Development,34,1619
+contlo,Contlo,Software Development,72,38377
+nielseniq,NielsenIQ,Information Services,21899,882986
+nextracker-inc,Nextracker Inc.,Renewable Energy Semiconductor Manufacturing,814,49598
+nvent,nVent,"Appliances, Electrical, and Electronics Manufacturing",2621,91529
+dream11,Dream11,"Technology, Information and Media",1497,75102
+level-ai,Level AI,Software Development,141,31690
+zscaler,Zscaler,Computer and Network Security,6999,293512
+ibssoftware,IBS Software,Software Development,4947,120324
+hyperhire-hq,Hyperhire,Human Resources Services,26,73312
+sharefile,ShareFile,Software Development,361,11880
+acl-digital,ACL Digital,IT Services and IT Consulting,2041,324008
+telstra,Telstra,Telecommunications,35088,370331
+linkedin,LinkedIn,Software Development,25029,25054151
+surtec-group,SurTec Group,Chemical Manufacturing,269,9239
+hyatt,Hyatt Hotels Corporation,Hospitality,76772,1231682
+skf,SKF Group,Industrial Machinery Manufacturing,17562,530473
+logic-av-products,LOGIC AV Products,"Technology, Information and Internet",2,999
+suyash-industries,Suyash Composite Industries Pvt. Ltd,Industrial Machinery Manufacturing,6,702
+hyatt-hotels,HYATT Hotels,Hospitality,732,22219
+amazon,Amazon,Software Development,862238,29983352
+videojet,Videojet Technologies,Printing Services,3317,64614
+the-ritz-carlton-hotel-company-llc,"The Ritz-Carlton Hotel Company, L.L.C.",Hospitality,16312,701877
+idfcfirstbank,IDFC FIRST Bank,Banking,34704,1139867
+capgemini,Capgemini,IT Services and IT Consulting,291333,6257392
+marriott_hotels_resorts,Marriott Hotels,Hospitality,33032,534961
+emerson,Emerson,Industrial Machinery Manufacturing,45699,1016092
+cargill,Cargill,Food and Beverage Manufacturing,75858,2502192
+sams-advance-climatic-technologies,SAMS ADVANCED CLIMATIC TECHNOLOGIES PVT. LTD.,Machinery Manufacturing,68,1316
+vodafone-idea-limited,Vodafone Idea Limited,Telecommunications,33584,271836
+fairfield_by_marriott,Fairfield by Marriott,Hospitality,4885,32460
+arkinfosolutionspvtltd,ARK Infosolutions Pvt. Ltd.,IT Services and IT Consulting,339,35163
+houseofshipping,House of Shipping,"Transportation, Logistics, Supply Chain and Storage",221,109027
+databricks,Databricks,Software Development,7581,567648
+gallagher-global,Gallagher,Insurance,34726,355819
+unayur-marketing-pvt-ltd,UNAYUR MARKETING PVT LTD (UMPL),Wellness and Fitness Services,169,4345
+insight,Insight,IT Services and IT Consulting,15891,361534
+stockgro,StockGro,Financial Services,142,51066
+tiger-analytics,Tiger Analytics,Business Consulting and Services,3694,336789
+creditsafe-technology,Creditsafe Technology,IT Services and IT Consulting,179,30619
+adform,Adform,IT Services and IT Consulting,783,32034
+guidehouse,Guidehouse,Business Consulting and Services,12674,149213
+zetasuite,Zeta,Software Development,1567,155486
+sain-medicaments-pvt-ltd,SAIN MEDICAMENTS PVT. LTD,Pharmaceutical Manufacturing,43,3818
+rrd-gocreative,RRD GO Creative,Advertising Services,966,46014
+kpit,KPIT,Software Development,14040,439145
+hitachi-vantara,Hitachi Vantara,IT Services and IT Consulting,12380,569710
+infracloudio,InfraCloud Technologies,IT Services and IT Consulting,201,48608
+winzogames,WinZO,Entertainment Providers,331,25607
+o9solutions,"o9 Solutions, Inc.",Software Development,2708,333017
+synechron,Synechron,Financial Services,12656,777329
+esko,Esko,Software Development,1660,255664
+palo-alto-networks,Palo Alto Networks,Computer and Network Security,14816,1023795
+calypso-technology,Calypso Technology,Software Development,628,118953
+loyalty-juggernaut,Loyalty Juggernaut,Software Development,216,7163
+flexintl,Flex,"Appliances, Electrical, and Electronics Manufacturing",46918,662890
+avantorinc,Avantor,Biotechnology Research,11580,131576
+infogain,Infogain,IT Services and IT Consulting,5577,278934
+plivo-inc,Plivo,Software Development,294,46619
+aci-worldwide,ACI Worldwide,Software Development,4745,140225
+nasdaq,Nasdaq,Financial Services,5693,409011
+roche,Roche,Biotechnology Research,92666,3139949
+wolibawellness,Woliba,Software Development,30,6132
+juniper-networks,Juniper Networks,Software Development,11847,739888
+investcloud,"InvestCloud, Inc.",Financial Services,1117,36137
+pestotech,Pesto Tech,"Technology, Information and Internet",120,30789
+zowork,Zowork,Software Development,41,6151
+deutsche-bank,Deutsche Bank,Financial Services,69089,2220775
+michael-page,Michael Page,Staffing and Recruiting,9878,3453006
+capgemini-engineering,Capgemini Engineering,IT Services and IT Consulting,49133,2001792
+thriving-springs,Thriving Springs AI,"Technology, Information and Internet",22,9251
+ntt-data-americas,NTT DATA Services,IT Services and IT Consulting,29111,585685
+careerxperts-consulting,CareerXperts Consulting,Human Resources Services,58,383693
+micron-technology,Micron Technology,Semiconductor Manufacturing,26745,553641
+quorum-software,Quorum Software,Software Development,1415,18700
+alightsolutions,Alight Solutions,IT Services and IT Consulting,14170,207064
+cockroach-labs,Cockroach Labs,Software Development,551,68404
+destm-technologies,Destm Technologies,IT Services and IT Consulting,60,11162
+amdocs,Amdocs,Software Development,35468,1050488
+s2tcyber,"S2T Unlocking Cyberspace - AI-Powered Investigations,WEBINT, OSINT, FUSION",IT Services and IT Consulting,49,42094
+synchronoss-technologies,Synchronoss Technologies,Telecommunications,1779,73917
+sita,SITA,IT Services and IT Consulting,7414,171624
+viavi-solutions,VIAVI Solutions,Telecommunications,4465,85305

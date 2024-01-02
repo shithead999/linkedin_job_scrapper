@@ -1,0 +1,383 @@
+job_id,location,designation,detail_id,company_id
+3787678771,"Bengaluru, Karnataka, India Hybrid",Cloud Machine Learning Developer,1,ltimindtree
+3780000775,"Bengaluru, Karnataka, India On-site",Decision Scientist,2,satsure
+3779697675,"Bokaro, Jharkhand, India On-site",Consultant - Data Scientist,3,affine
+3785472391,India Remote,Generative AI Engineer,4,aiseo-ai
+3779882292,India Remote,Freelance opportunity,5,puresoftware
+3778458908,"Noida, Uttar Pradesh, India On-site",Data Scientist,6,credgenics
+3776688158,"Indore, Madhya Pradesh, India",Data Scientist (Computer Vision),7,revolut
+3776684605,Greater Bengaluru Area,Data Scientist (Computer Vision),8,revolut
+3776682818,"Gurgaon, Haryana, India",Data Scientist (Computer Vision),9,revolut
+3776685583,"Mumbai, Maharashtra, India",Data Scientist (Computer Vision),10,revolut
+3781583165,"Bengaluru, Karnataka, India",Trainee - Data Scientist,13,equifax
+3777886001,"Infosys ï¿½ Bengaluru, Karnataka, India  1 week ago  ï¿½ Over 100 applicants",Data Scientist,14,infosys
+3779694805,"Gartner ï¿½ Gurgaon, Haryana, India  1 week ago  ï¿½ Over 100 applicants",Associate Data Scientist (ML & NLP),15,gartner
+3784298796,Masai ï¿½ India  6 days ago  ï¿½ Over 100 applicants,Data Analytics Instructor,16,masai-school
+3790564298,"Xerox ï¿½ Kochi, Kerala, India Reposted  16 minutes ago  ï¿½ 3 applicants",Data Scientist,18,xerox
+3778704335,"Delhi, India On-site",Data Scientist I/II,20,idinsight
+3777886001,"Infosys ï¿½ Bengaluru, Karnataka, India  1 week ago  ï¿½ Over 100 applicants",Data Scientist,21,infosys
+3777886001,"Bengaluru, Karnataka, India Hybrid",Data Scientist,22,infosys
+3788650998,"Optym ï¿½ Bengaluru, Karnataka, India  25 minutes ago  ï¿½ 18 applicants",Algorithm Developer,39,optym-
+3790497981,Applicantz ï¿½ Greater Bengaluru Area  5 hours ago  ï¿½ 30 applicants,Artificial Intelligence Engineer,40,applicantz-com
+3782226290,"Navi Mumbai, Maharashtra, India On-site",Data Scientist,42,internet-brands
+3785522751,"Haleon ï¿½ Bengaluru, Karnataka, India  6 days ago  ï¿½ Over 100 applicants",Machine Learning Engineer,45,haleon
+3785167870,"Bengaluru, Karnataka, India Hybrid",Data Scientist,46,htc-global-services
+3775403953,"LTIMindtree ï¿½ Bengaluru, Karnataka, India  2 weeks ago  ï¿½ Over 100 applicants",ML model or Data Data Scientist(Market mix modelling),48,ltimindtree
+3782318940,"Navi Mumbai, Maharashtra, India On-site",Data Scientist,49,icicidirect
+3779802465,"ExxonMobil ï¿½ Bengaluru, Karnataka, India  1 week ago  ï¿½ Over 100 applicants",Data Scientist,50,exxonmobil
+3784297467,"KPMG India ï¿½ Mumbai, Maharashtra, India  6 days ago  ï¿½ Over 100 applicants",Data Scientist,52,kpmgindia
+3785167870,"HTC Global Services ï¿½ Bengaluru, Karnataka, India  5 days ago  ï¿½ Over 100 applicants",Data Scientist,53,htc-global-services
+3785167870,"HTC Global Services ï¿½ Bengaluru, Karnataka, India  5 days ago  ï¿½ Over 100 applicants",Data Scientist,54,htc-global-services
+3781163506,"Noida, Uttar Pradesh, India Hybrid",DATA SCIENTIST 2,55,microsoft
+3781740982,"Bengaluru East, Karnataka, India On-site",Data Scientist,56,ibm
+3784503439,"Bengaluru, Karnataka, India Hybrid",Data Science Manager - Bangalore,57,benchire
+3783666404,"Affine ï¿½ Bengaluru, Karnataka, India  1 week ago  ï¿½ 30 applicants",Consultant - CV-DL,58,affine
+3783335772,"Tech Mahindra ï¿½ Bengaluru, Karnataka, India  2 days ago  ï¿½ Over 100 applicants","Data Engineer with Python, Scala and Spark",59,tech-mahindra
+3781226536,"Equifax ï¿½ Mumbai, Maharashtra, India  1 week ago  ï¿½ Over 100 applicants",Trainee - Data Scientist,60,equifax
+3787512253,"Bengaluru, Karnataka, India On-site",Python Developer - Multiple Locations,80,tridentconsulting
+3783538392,"Bengaluru, Karnataka, India On-site",AI Assurance,81,deloitte
+3786873830,"Adani Group ï¿½ Kolkata, West Bengal, India  5 days ago  ï¿½ Over 100 applicants",Data Science - AI Solutions Expert,82,adani-group
+3790559608,"Wood Mackenzie ï¿½ Delhi Cantonment, Delhi, India  1 hour ago  ï¿½ 42 applicants",Data Engineer,105,wood-mackenzie
+3784366316,"Chennai, Tamil Nadu, India Hybrid",Business Analyst,106,virtusa
+3788645907,"OneTrust ï¿½ Bengaluru, Karnataka, India Reposted  1 hour ago  ï¿½ 11 applicants",Principal Data Scientist,107,onetrust
+3787108669,"Darwinbox ï¿½ Hyderabad, Telangana, India  4 days ago  ï¿½ Over 100 applicants",Intern,108,thedarwinbox
+3783352323,"Bengaluru, Karnataka, India On-site",Data Scientist-3,110,cashfree
+3780101164,"Gurugram, Haryana, India On-site",Junior Data Analyst,111,concentrix
+3790559608,"Wood Mackenzie ï¿½ Delhi Cantonment, Delhi, India  1 hour ago  ï¿½ 45 applicants",Data Engineer,112,wood-mackenzie
+3786893526,"Xceedance ï¿½ Gurugram, Haryana, India  5 days ago  ï¿½ Over 100 applicants","Analyst, Global Actuarial & Analytics Services",131,xceedance
+3790559608,"Wood Mackenzie ï¿½ Delhi Cantonment, Delhi, India  1 hour ago  ï¿½ 45 applicants",Data Engineer,134,wood-mackenzie
+3788645907,"OneTrust ï¿½ Bengaluru, Karnataka, India Reposted  2 hours ago  ï¿½ 12 applicants",Principal Data Scientist,135,onetrust
+3786875844,"Boston Consulting Group (BCG) ï¿½ Bengaluru, Karnataka, India  5 days ago  ï¿½ Over 100 applicants",Lead AI Engineer,136,boston-consulting-group
+3781645425,"Bengaluru, Karnataka, India",Risk-BENGALURU-Associate-Liquidity Risk,157,goldman-sachs
+3788645907,"OneTrust ï¿½ Bengaluru, Karnataka, India Reposted  2 hours ago  ï¿½ 12 applicants",Principal Data Scientist,160,onetrust
+3786043733,"Google ï¿½ Bengaluru, Karnataka, India  4 days ago  ï¿½ Over 100 applicants","Generative AI Analyst, Trust and Safety",180,google
+3780013906,"SteriMax Inc. ï¿½ Hyderabad, Telangana, India  1 week ago  ï¿½ Over 100 applicants",Regulatory Affairs Associate,181,sterimax-inc-
+3786893526,"Xceedance ï¿½ Gurugram, Haryana, India  5 days ago  ï¿½ Over 100 applicants","Analyst, Global Actuarial & Analytics Services",182,xceedance
+3786801147,"Bengaluru, Karnataka, India",Data Science Data Architect,205,accentureindia
+3780013906,"SteriMax Inc. ï¿½ Hyderabad, Telangana, India  1 week ago  ï¿½ Over 100 applicants",Regulatory Affairs Associate,206,sterimax-inc-
+3786893526,"Xceedance ï¿½ Gurugram, Haryana, India  5 days ago  ï¿½ Over 100 applicants","Analyst, Global Actuarial & Analytics Services",207,xceedance
+3790559608,"Wood Mackenzie ï¿½ Delhi Cantonment, Delhi, India  2 hours ago  ï¿½ 50 applicants",Data Engineer,209,wood-mackenzie
+3790532425,"Bengaluru, Karnataka, India Hybrid",Software Engineer,210,natwest-group
+3790538077,"UBS ï¿½ Pune, Maharashtra, India  3 hours ago  ï¿½ 19 applicants",Data Management Analyst,211,ubs
+3786043733,"Google ï¿½ Bengaluru, Karnataka, India  4 days ago  ï¿½ Over 100 applicants","Generative AI Analyst, Trust and Safety",230,google
+3786801147,"Accenture in India ï¿½ Bengaluru, Karnataka, India Reposted  8 hours ago  ï¿½ 8 applicants",Data Science Data Architect,231,accentureindia
+3780013906,"SteriMax Inc. ï¿½ Hyderabad, Telangana, India  1 week ago  ï¿½ Over 100 applicants",Regulatory Affairs Associate,232,sterimax-inc-
+3786893526,"Xceedance ï¿½ Gurugram, Haryana, India  5 days ago  ï¿½ Over 100 applicants","Analyst, Global Actuarial & Analytics Services",233,xceedance
+3786432260,"Visa ï¿½ Bengaluru East, Karnataka, India  5 days ago  ï¿½ 98 applicants",Sr. Data Scientist,235,visa
+3786432260,"Bengaluru East, Karnataka, India",Sr. Data Scientist,255,visa
+3784553431,"Chennai, Tamil Nadu, India Hybrid",Data Modeler,257,hexaware-technologies
+3790538077,"Pune, Maharashtra, India On-site",Data Management Analyst,258,ubs
+3790531319,"Genpact ï¿½ Bengaluru, Karnataka, India  3 hours ago  ï¿½ 54 applicants",M-SQL Developer-ANA009689,259,genpact
+3780013906,"Hyderabad, Telangana, India On-site",Regulatory Affairs Associate,260,sterimax-inc-
+3784553431,"Chennai, Tamil Nadu, India Hybrid",Data Modeler,282,hexaware-technologies
+3790538077,"UBS ï¿½ Pune, Maharashtra, India  3 hours ago  ï¿½ 19 applicants",Data Management Analyst,283,ubs
+3777892124,"Revature ï¿½ Chennai, Tamil Nadu, India  1 week ago  ï¿½ Over 100 applicants",Cloud Data Engineer,312,revature
+3777892124,"Revature ï¿½ Chennai, Tamil Nadu, India  1 week ago  ï¿½ Over 100 applicants",Cloud Data Engineer,313,revature
+3783566202,Greater Hyderabad Area On-site,Scrum Master,359,healthedge
+3778803236,"Bengaluru, Karnataka, India On-site",Community Associate,360,wework-india
+3783612624,"Sage ï¿½ Bengaluru, Karnataka, India  1 week ago  ï¿½ Over 100 applicants",Support Analyst,361,sage-software
+3781844339,"Hyderabad, Telangana, India On-site",Associate,383,wipro
+3778803236,"Bengaluru, Karnataka, India On-site",Community Associate,386,wework-india
+3789108300,"Pune, Maharashtra, India",Data Modeler,406,bp
+3787108669,"Hyderabad, Telangana, India Hybrid",Intern,407,thedarwinbox
+3786851862,"Gurugram, Haryana, India On-site","Software Developer, Marketplace",409,geminitrust
+3789141155,"Gurugram, Haryana, India On-site",AM Automation,410,teleperformance
+3789141155,"Teleperformance ï¿½ Gurugram, Haryana, India  2 days ago  ï¿½ 75 applicants",AM Automation,431,teleperformance
+3779120052,"Mumbai, Maharashtra, India Hybrid",Intern - Data Research Engineering (Looking for 2023 graduates/ BCA/MCA/Bsc-Csc/ BE/ Btech),432,forbes-advisor
+3782718560,"Bengaluru, Karnataka, India On-site",Load testing Engineer : Bangalore,433,oracle
+3784542866,"Bengaluru, Karnataka, India On-site",Business Analyst,455,aditiconsulting
+3785029082,"Gurgaon, Haryana, India On-site",Associate,456,wtwcorporate
+3785167395,"Bengaluru, Karnataka, India On-site",FEA Engineer,458,l&t-technology-services-limited
+3787300810,"Ansys ï¿½ Mulshi, Maharashtra, India  4 days ago  ï¿½ Over 100 applicants",R&D Verification Engineer (CFD/ Fluent/ Python),459,ansys-inc
+3783450198,"Fractal ï¿½ Mumbai, Maharashtra, India  1 week ago  ï¿½ Over 100 applicants",CA Intern,461,fractal-analytics
+3785167395,"Bengaluru, Karnataka, India On-site",FEA Engineer,481,l&t-technology-services-limited
+3787300810,"Ansys ï¿½ Mulshi, Maharashtra, India  4 days ago  ï¿½ Over 100 applicants",R&D Verification Engineer (CFD/ Fluent/ Python),482,ansys-inc
+3789141155,"Gurugram, Haryana, India On-site",AM Automation,505,teleperformance
+3782458960,"Bengaluru, Karnataka, India Hybrid",Database Developer,507,deloitte
+3786557044,"Nutanix ï¿½ Bengaluru, Karnataka, India  5 days ago  ï¿½ Over 100 applicants","SDET- Automation Engineer[Java,Python]",511,nutanix
+3784552085,Mumbai Metropolitan Region Hybrid,Business Operation Analyst - Fresher,532,media.net
+3785167395,"Bengaluru, Karnataka, India On-site",FEA Engineer,534,l&t-technology-services-limited
+3786915036,"HDFC Bank ï¿½ Mumbai, Maharashtra, India  2 days ago  ï¿½ Over 100 applicants",Functional Analyst- FATCA,556,hdfc-bank
+3790531319,"Genpact ï¿½ Bengaluru, Karnataka, India  4 hours ago  ï¿½ 58 applicants",M-SQL Developer-ANA009689,557,genpact
+3783352323,"Cashfree Payments ï¿½ Bengaluru, Karnataka, India  2 days ago  ï¿½ Over 100 applicants",Data Scientist-3,561,cashfree
+3787083701,"Bengaluru, Karnataka, India",Intern,582,harman-international
+3783352323,"Bengaluru, Karnataka, India On-site",Data Scientist-3,605,cashfree
+3783442961,"Pune, Maharashtra, India On-site","Executive, Assistant",609,sedemac-mechatronics
+3784542866,"Bengaluru, Karnataka, India On-site",Business Analyst,610,aditiconsulting
+3783566202,Greater Hyderabad Area On-site,Scrum Master,611,healthedge
+3786557044,"Bengaluru, Karnataka, India On-site","SDET- Automation Engineer[Java,Python]",630,nutanix
+3783442961,"Pune, Maharashtra, India On-site","Executive, Assistant",631,sedemac-mechatronics
+3784542866,"Bengaluru, Karnataka, India On-site",Business Analyst,632,aditiconsulting
+3785188821,Cuemath ï¿½ India  5 days ago  ï¿½ Over 100 applicants,Cuemath Tutor,635,cuemath
+3786915036,"Mumbai, Maharashtra, India On-site",Functional Analyst- FATCA,656,hdfc-bank
+3786543973,"Hyderabad, Telangana, India On-site",Business Analyst ï¿½ Power BI Reporting-HIG015662,657,genpact
+3788779383,"Chennai, Tamil Nadu, India",Data Analyst III,658,zoominfo
+3790563476,"Fidelity International ï¿½ Gurgaon, Haryana, India  2 hours ago  ï¿½ 6 applicants",Analyst Programmer,659,fidelity-international
+3784542866,"Bengaluru, Karnataka, India On-site",Business Analyst,660,aditiconsulting
+3783566202,Greater Hyderabad Area On-site,Scrum Master,661,healthedge
+3782746211,"Phenom ï¿½ Hyderabad, Telangana, India  1 week ago  ï¿½ Over 100 applicants",Software Engineer,681,phenomtxm
+3787387940,"Vimeo ï¿½ Bengaluru, Karnataka, India  4 days ago  ï¿½ Over 100 applicants","Senior Data Engineer, Analytics",682,vimeo
+3785982742,"Cognizant ï¿½ Hyderabad, Telangana, India  6 days ago  ï¿½ Over 100 applicants",Associate - Projects,684,cognizant
+3783427136,"Luxoft ï¿½ Bengaluru, Karnataka, India  1 week ago  ï¿½ Over 100 applicants",Murex Functional Tester,685,luxoft
+3784397652,"Logitech ï¿½ Chennai, Tamil Nadu, India  1 week ago  ï¿½ Over 100 applicants",Software Engineer,686,logitech
+3786915036,"Mumbai, Maharashtra, India On-site",Functional Analyst- FATCA,687,hdfc-bank
+3786915036,"HDFC Bank ï¿½ Mumbai, Maharashtra, India  2 days ago  ï¿½ Over 100 applicants",Functional Analyst- FATCA,688,hdfc-bank
+3785982742,"Cognizant ï¿½ Hyderabad, Telangana, India  6 days ago  ï¿½ Over 100 applicants",Associate - Projects,705,cognizant
+3784397652,"Logitech ï¿½ Chennai, Tamil Nadu, India  1 week ago  ï¿½ Over 100 applicants",Software Engineer,710,logitech
+3787108669,"Darwinbox ï¿½ Hyderabad, Telangana, India  4 days ago  ï¿½ Over 100 applicants",Intern,711,thedarwinbox
+3785167395,"L&T Technology Services ï¿½ Bengaluru, Karnataka, India  5 days ago  ï¿½ Over 100 applicants",FEA Engineer,755,l&t-technology-services-limited
+3784288959,"Black Box ï¿½ Mumbai, Maharashtra, India  6 days ago  ï¿½ Over 100 applicants",VAPT Analyst,780,black-box
+3786867360,"WeWork India ï¿½ Bengaluru, Karnataka, India  5 days ago  ï¿½ 97 applicants","Associate, Centralized Billing",783,wework-india
+3782285017,"Hyderabad, Telangana, India On-site",Big Data Engineer,784,ibm
+3787088293,"HARMAN International ï¿½ Pune, Maharashtra, India  5 days ago  ï¿½ Over 100 applicants","Data Analyst (SQL, PLSQL, Unix shell scripting, Hadoop [Hive, Sqoop - Optional])",786,harman-international
+3788780033,"Rajasthan, India On-site",Analista de dados macae rj,790,netvagas
+3782117900,"Zocdoc ï¿½ Pune, Maharashtra, India  1 week ago  ï¿½ Over 100 applicants",Customer Service Associate,810,zocdoc
+3786923211,India Remote,Online AP Statistics tutor,811,tutoring-maphy
+3788627221,"New Delhi, Delhi, India Remote","Head of AI-driven Software Development, Trilogy (Remote) - $400,000/year USD",813,crossover
+3786885263,"HTC Global Services ï¿½ Bengaluru, Karnataka, India Reposted  5 days ago  ï¿½ 74 applicants",Data Engineer,814,htc-global-services
+3785241672,"Nomura ï¿½ Mumbai, Maharashtra, India  1 week ago  ï¿½ Over 100 applicants",Human Resources ï¿½ Wellness (Total Rewards) ï¿½ Associate,815,nomura
+3786885263,"Bengaluru, Karnataka, India Hybrid",Data Engineer,834,htc-global-services
+3782472256,"Hyderabad, Telangana, India On-site",Workday Integration Analyst - Contractor,837,gainsight
+3785376751,"Hyderabad, Telangana, India On-site","Product Operations Analyst, Privacy, Safety, and Security",838,google
+3788632046,"Kurla, Maharashtra, India On-site",Analyst - PVsyst,840,black-and-veatch
+3786885263,"Bengaluru, Karnataka, India Hybrid",Data Engineer,859,htc-global-services
+3785376751,"Google ï¿½ Hyderabad, Telangana, India  4 days ago  ï¿½ Over 100 applicants","Product Operations Analyst, Privacy, Safety, and Security",860,google
+3779120052,"Mumbai, Maharashtra, India Hybrid",Intern - Data Research Engineering (Looking for 2023 graduates/ BCA/MCA/Bsc-Csc/ BE/ Btech),864,forbes-advisor
+3788632046,"Black & Veatch ï¿½ Kurla, Maharashtra, India Reposted  6 hours ago  ï¿½ 9 applicants",Analyst - PVsyst,865,black-and-veatch
+3785000079,"Bengaluru, Karnataka, India On-site",Python Developer,886,quess-it-staffing
+3787305713,"Tesco Bengaluru ï¿½ Bengaluru, Karnataka, India  4 days ago  ï¿½ Over 100 applicants",Senior Applied Data Scientist,888,tesco-bengaluru
+3784507829,"Bengaluru, Karnataka, India Hybrid","Associate, Data Intelligence Group, AI & Machine Learning",890,tresvista
+3785334658,"Gurugram, Haryana, India On-site",Quality Assurance Engineer,909,walker-digital-table-systems
+3783355592,"Bengaluru, Karnataka, India On-site",Big Data Developer,911,pwc-india
+3786291604,"Bengaluru, Karnataka, India",Business Analyst,912,millerknoll
+3786915036,"Mumbai, Maharashtra, India On-site",Functional Analyst- FATCA,914,hdfc-bank
+3785877573,"Bengaluru, Karnataka, India Remote",Analytics and Modeling Specialist,915,accentureindia
+3789106198,"Uplers ï¿½ Delhi, Delhi, India  2 days ago  ï¿½ 34 applicants",Python Developer (New Delhi),934,weareuplers
+3789105300,"Gurugram, Haryana, India On-site",Python Developer (Gurugram),935,weareuplers
+3788646622,"OpenText ï¿½ Bengaluru, Karnataka, India  4 hours ago  ï¿½ 9 applicants",Consultant,936,opentext
+3786885547,"Trivandrum, Kerala, India",ML Engineer II,938,nissan-motor-corporation
+3783940539,"Chennai, Tamil Nadu, India Hybrid",Power BI Developer,961,fleetcor
+3783492627,"Pune, Maharashtra, India On-site","Analyst, PTP",962,maersk-group
+3782760556,"Arm ï¿½ Bengaluru, Karnataka, India  1 week ago  ï¿½ Over 100 applicants",SAP Finance Analyst,963,arm
+3784122182,"Gurugram, Haryana, India Hybrid",Business Intelligence (BI) Data Architect ,964,eptura
+3787373019,"Pune, Maharashtra, India On-site",Software Engineer- Java,984,ubs
+3787022864,"Abbott ï¿½ Hyderabad, Telangana, India Reposted  10 hours ago  ï¿½ 35 applicants",Vaccines -Associate - Chennai,985,abbott-
+3779086251,"Allstate India ï¿½ Pune, Maharashtra, India  2 weeks ago  ï¿½ 73 applicants",Associate Principal Software Engineer,986,allstateindia
+3786292890,"Hyderabad, Telangana, India Hybrid",Analytics Consultant,989,wellsfargo
+3778803236,"WeWork India ï¿½ Bengaluru, Karnataka, India  1 week ago  ï¿½ Over 100 applicants",Community Associate,990,wework-india
+3778748519,Clapingo ï¿½ India  2 weeks ago  ï¿½ Over 100 applicants,Spoken English Trainer,1010,clapingo
+3767579153,"Newtrace · Bengaluru, Karnataka, India Reposted  2 weeks ago  · Over 100 applicants",B2B Marketing,1015,newtracetech
+3781084682,"Oswaal Books · Agra, Uttar Pradesh, India  1 week ago  · 47 applicants",Trade Marketing Specialist,1016,oswaal-books
+3770571671,"Worley · Mumbai, Maharashtra, India Reposted  1 day ago  · 82 applicants",Graduate Digital Solutions Consultant (Graduate Digital Solutions Consultant-Technology Landscape),1017,worley
+3784295435,"CentraLogic · Pune, Maharashtra, India  6 days ago  · Over 100 applicants",Digital Marketing Executive,1037,centralogic
+3763983671,"Budni, Madhya Pradesh, India On-site",LEAD MARKETING BRR - DOMESTIC,1040,tridentgroupglobal
+3777891136,"VAP Group · Mumbai, Maharashtra, India  1 week ago  · Over 100 applicants",Social Media Executive,1062,vap-group
+3773302124,"WAi Technologies · Pune, Maharashtra, India  3 weeks ago  · Over 100 applicants",Marketing Research Specialist,1063,waitechnologies
+3780558175,"Global Blockchain Show · Mumbai, Maharashtra, India  1 week ago  · Over 100 applicants",Social Media Executive,1066,globalblockchainshow
+3781842625,"Airline Prep School · Mumbai, Maharashtra, India  6 days ago  · Over 100 applicants",Digital Marketing Executive,1087,airline-prep-school
+3774384278,"BRDG Brands India · Mumbai, Maharashtra, India  2 weeks ago  · Over 100 applicants",Performance Marketing Specialist,1089,brdg-group
+3783573798,"Attri · Ahmedabad, Gujarat, India  1 week ago  · 47 applicants",Content Marketing Specialist,1090,attriai
+3777899471,"Bengaluru, Karnataka, India On-site",Growth and Partnerships Associate,1112,moonstarinteractive
+3751243519,"Predis.ai · Pune, Maharashtra, India  1 month ago  · Over 100 applicants",Growth Marketer - Performance,1116,predis-ai
+3783352975,"Jamesons Info Solutions · Lucknow, Uttar Pradesh, India  2 days ago  · 62 applicants",Digital Marketing Executive,1117,jamesons-info-solutions
+3779113765,"Bread Financial · Bengaluru, Karnataka, India  2 weeks ago  · 38 applicants","Campaign Measurement Optimization Analyst, 2",1138,bread-financial
+3789732730,"Chandigarh, India On-site",Digital Marketing Specialist,1140,bizconnectedstars
+3741883019,"Futurism Technologies, INC. · Pune, Maharashtra, India Reposted  3 days ago  · Over 100 applicants",Senior Digital Marketing,1141,futurism-technologies
+3775977834,"Response Informatics · Delhi, India  1 week ago  · 92 applicants",SAAS Marketing Specialist,1161,response-informatics-ltd
+3783351752,"Effivity Technologies Pvt. Ltd. · Chennai, Tamil Nadu, India  2 days ago  · Over 100 applicants",Digital Marketing Executive,1166,effivity-technologies-pvt--ltd-
+3775977834,"Response Informatics · Delhi, India  1 week ago  · 92 applicants",SAAS Marketing Specialist,1168,response-informatics-ltd
+3775977834,"Response Informatics · Delhi, India  1 week ago  · 92 applicants",SAAS Marketing Specialist,1169,response-informatics-ltd
+3731411321,"dentsu · Chennai, Tamil Nadu, India Reposted  2 weeks ago  · Over 100 applicants",Senior Analyst - Paid Search,1187,dentsu
+3776551137,"Bombay Play · Bengaluru, Karnataka, India  2 weeks ago  · 76 applicants",Ad Monetization Manager - Gaming,1188,bombay-play
+3645481395,"My Flight Trip · Noida, Uttar Pradesh, India  5 months ago  · Over 100 applicants",Digital Marketing Specialist,1189,myflighttrip
+3720240471,"Bengaluru, Karnataka, India",Performance Marketing Consultant,1190,dentsu
+3774154808,"AsteroidX · Bengaluru, Karnataka, India  2 weeks ago  · Over 100 applicants",Junior Campaign Manager,1191,asteroidxinc
+3741737851,"Headhunting · Mumbai, Maharashtra, India Reposted  1 week ago  · Over 100 applicants",Ad Operations Specialist,1192,headhunting-pte-ltd
+3784298689,Greater Bengaluru Area On-site,Adobe Campaign Developer,1211,conneqt-digital
+3784501288,"Amaha (formerly InnerHour) · Mumbai, Maharashtra, India  6 days ago  · Over 100 applicants",B2B - Jr. Associate,1212,amaha
+3754177709,"Eli Lilly and Company Bengaluru, Karnataka, India On-site",Open Search Tech Lead - Enterprise Data,1213,eli-lilly-and-company
+3781089312,"Agra, Uttar Pradesh, India On-site",AMS Ads (Amazon marketing Services),1214,oswaal-books
+3788577068,"dentsu · Chennai, Tamil Nadu, India  3 days ago  · 9 applicants",Senior Analyst - Paid Search,1215,dentsu
+3786987660,"Mumbai, Maharashtra, India On-site",Social Media Executive,1217,coutloot
+3784298689,Greater Bengaluru Area On-site,Adobe Campaign Developer,1218,conneqt-digital
+3784298689,Conneqt Digital · Greater Bengaluru Area  6 days ago  · 34 applicants,Adobe Campaign Developer,1219,conneqt-digital
+3759167529,"Worley · Mumbai, Maharashtra, India Reposted  1 day ago  · 77 applicants",Graduate Digital Solutions Consultant (Intelligent Digital Replication (IRD) Analyst),1238,worley
+3776627441,"UL Solutions · Gurugram, Haryana, India  1 week ago  · 64 applicants",Senior Industry Marketing Specialist,1240,ulsolutions
+3676764891,"Bengaluru East, Karnataka, India",Programmatic Associate,1241,zetaglobal
+3773033714,"IBM · Kochi, Kerala, India Reposted  2 weeks ago  · Over 100 applicants",Data Scientist - FinOps,1286,ibm
+3784533713,"EPAM Systems · Pune, Maharashtra, India  6 days ago  · 52 applicants",Sr. Engineer Machine Learning,1287,epam-systems
+3789113840,"Bengaluru, Karnataka, India On-site",Analytics Engineer II,1289,novo-hq
+3780702831,"Braintrust · Madhya Pradesh, India Reposted  6 days ago  · Over 100 applicants",Coders - AI Training [Remote],1290,usebraintrust
+3780346053,"Honeywell · Madurai, Tamil Nadu, India Reposted  1 week ago  · Over 100 applicants",AI/ML Engineer,1312,honeywell
+3784536240,"EPAM Systems · Gurugram, Haryana, India  6 days ago  · 52 applicants",Lead Engineer Machine Learning (ML),1313,epam-systems
+3779233269,India Remote,Coders - AI Training [Remote],1314,usebraintrust
+3771906165,"Thane, Maharashtra, India On-site",Data Engineer,1337,dentsu
+3787019558,"Providence India · Hyderabad, Telangana, India  5 days ago  · 92 applicants",Data Analytics Engineer 2,1338,providence-india
+3784117045,"NVIDIA · Bengaluru, Karnataka, India Reposted  1 week ago  · Over 100 applicants",Senior Artificial Intelligence Algorithms Engineer,1339,nvidia
+3780070921,"Voya India · Bengaluru, Karnataka, India  1 week ago  · 72 applicants",Data Intergrity,1342,voya-india
+3779800757,"KLA · Chennai, Tamil Nadu, India  1 week ago  · 56 applicants",Algorithm Engineer,1361,klacorp
+3768331568,"ConcertAI · Bengaluru, Karnataka, India Reposted  1 week ago  · Over 100 applicants",Data Engineer,1363,concertai
+3780198410,"Bengaluru, Karnataka, India",Associate Consultant-Data Science,1386,trinitylifesciences
+3779597116,"CGI · Bengaluru, Karnataka, India  2 weeks ago  · 33 applicants",AI Implementation Consultant - LA / AC - 8 to 12yrs,1388,cgi
+3785164777,"L&T Technology Services · Chennai, Tamil Nadu, India  5 days ago  · Over 100 applicants",FEA Engineer,1437,l&t-technology-services-limited
+3784524045,"Cuemath · Bengaluru, Karnataka, India  6 days ago  · Over 100 applicants",Math Game Developer,1441,cuemath
+3778604221,"Rocket Software · Hyderabad, Telangana, India  2 weeks ago  · Over 100 applicants",Software Engineer II ( Machine Learning/AI feature development),1442,rocket-software
+3785476931,"Virtusa · Andhra Pradesh, India  1 week ago  · 9 applicants",Actimize Developer,1486,virtusa
+3770911015,"Kloud9 LLC · Bengaluru, Karnataka, India  4 weeks ago  · 85 applicants",Immediate Opportunity for ML Ops _ GCP,1487,kloud9nyc
+3784114673,"LTIMindtree · Bengaluru, Karnataka, India  1 week ago  · 50 applicants",Mlops Engineer,1489,ltimindtree
+3786431014,"Haleon · Bengaluru, Karnataka, India  6 days ago  · 43 applicants",Data & AI Risk Specialist,1490,haleon
+3761927968,"Deliveroo · Hyderabad, Telangana, India Reposted  2 weeks ago  · Over 100 applicants",Data Scientist - Consumer,1491,deliveroo
+3775962169,"LTIMindtree · Hyderabad, Telangana, India  1 week ago  · Over 100 applicants",Data Modeling with ETL,1492,ltimindtree
+3778374514,"insightsoftware · Hyderabad, Telangana, India  2 weeks ago  · Over 100 applicants",Software Engineer,1536,outcomes-by-insightsoftware
+3765778107,"Cimpress India · Mumbai, Maharashtra, India Reposted  1 day ago  · Over 100 applicants",Software Engineer,1537,cimpress-india
+3772660331,System Soft Technologies · India  3 weeks ago  · Over 100 applicants,Data Engineer,1538,systemsofttech
+3778361865,"PureSoftware Ltd · Gurugram, Haryana, India  2 weeks ago  · Over 100 applicants",Full Stack Developer,1539,puresoftware
+3787647887,"Pay2 Development Center Private Limited · Gurugram, Haryana, India  1 day ago  · Over 100 applicants",Backend Engineer,1541,pay2dc
+3767555720,Contlo · Greater Bengaluru Area Reposted  1 week ago  · Over 100 applicants,SDE II - Backend,1542,contlo
+3782339684,"NielsenIQ · Pune, Maharashtra, India  1 week ago  · Over 100 applicants",R/ Python Engineer,1562,nielseniq
+3786852778,"Gemini · Gurugram, Haryana, India  5 days ago  · Over 100 applicants","Software Engineer, Marketplace (Backend)",1563,geminitrust
+3724308594,"Hyderabad, Telangana, India Hybrid",Software Engineer,1564,nextracker-inc
+3780546003,"Bengaluru, Karnataka, India",Python Developer,1565,cgi
+3634869909,"nVent · Bengaluru, Karnataka, India Reposted  2 weeks ago  · Over 100 applicants",Software Engineer,1586,nvent
+3753494555,"Dream11 · Mumbai, Maharashtra, India Reposted  1 week ago  · Over 100 applicants",SDE 2 - Backend,1611,dream11
+3780870668,"nVent · Mumbai, Maharashtra, India  1 week ago  · Over 100 applicants",Software Developer,1612,nvent
+3759591656,"Bengaluru, Karnataka, India On-site",Developer,1613,wipro
+3643039287,India Remote,"Machine Learning Ops Engineer(Remote, India)",1614,level-ai
+3775255769,"Bangalore Urban, Karnataka, India Hybrid",Data Engineer,1615,virtusa
+3738358285,"Bengaluru, Karnataka, India","Data Engineer / ML - TensorFlow, PyTorch, scikit-learn, Data Preprocessing, Bigdata - REF6788D",1616,zscaler
+3643039287,Level AI · India Reposted  1 day ago  · Over 100 applicants,"Machine Learning Ops Engineer(Remote, India)",1637,level-ai
+3738358285,"Zscaler · Bengaluru, Karnataka, India Reposted  1 day ago  · Over 100 applicants","Data Engineer / ML - TensorFlow, PyTorch, scikit-learn, Data Preprocessing, Bigdata - REF6788D",1638,zscaler
+3634869909,"Bengaluru, Karnataka, India Remote",Software Engineer,1640,nvent
+3779809696,"Wipro · Hyderabad, Telangana, India  1 week ago  · Over 100 applicants",Developer,1641,wipro
+3774703330,"Wipro · Hyderabad, Telangana, India  2 weeks ago  · Over 100 applicants",Developer,1642,wipro
+3724308594,"Hyderabad, Telangana, India Hybrid",Software Engineer,1661,nextracker-inc
+3786852778,"Gemini · Gurugram, Haryana, India  5 days ago  · Over 100 applicants","Software Engineer, Marketplace (Backend)",1663,geminitrust
+3790532149,"Trivandrum, Kerala, India Hybrid",AEM Developer,1667,ibssoftware
+3777877894,India Remote,Data Engineer,1687,hyperhire-hq
+3747434069,"Google · Hyderabad, Telangana, India Reposted  1 week ago  · Over 100 applicants","Application Engineer, SAP Integration",1689,google
+3786991866,"ShareFile · Bengaluru, Karnataka, India  2 days ago  · 85 applicants",Software Engineer,1711,sharefile
+3768029509,"Bengaluru, Karnataka, India On-site",Java Backend Developer,1713,acl-digital
+3788457125,"Lucknow, Uttar Pradesh, India Remote","Back End Developer, Totogi (Remote) - $100,000/year USD",1737,crossover
+3780089484,"Bengaluru, Karnataka, India Hybrid",Software Engineer - IBM Sterling,1738,telstra
+3643039287,India Remote,"Machine Learning Ops Engineer(Remote, India)",1741,level-ai
+3770129922,"LinkedIn · Bengaluru, Karnataka, India  2 weeks ago  · Over 100 applicants","Staff Software Engineer, Data Platform",1742,linkedin
+3778399504,"SurTec Group · Pune, Maharashtra, India  2 weeks ago  · 51 applicants",Assistant Manager/Area Manager - Sales & Technical service (F/M/D),1761,surtec-group
+3782769857,"Bengaluru, Karnataka, India On-site",Account Executive - Capital Markets & Insurance,1763,wipro
+3732207281,"Jaipur, Rajasthan, India On-site",Sales Executive,1766,hyatt
+3783618730,"SKF Group · Pune, Maharashtra, India  1 week ago  · Over 100 applicants",Area Sales Manager- Jabalpur,1788,skf
+3777058754,"Bengaluru, Karnataka, India On-site",Business Development Manager,1811,logic-av-products
+3786869101,"Delhi, India On-site",Sales Manager,1813,response-informatics-ltd
+3775376957,"Suyash Composite Industries Pvt. Ltd · Thane, Maharashtra, India Reposted  2 weeks ago  · Over 100 applicants",Sales and Business Development Manager,1815,suyash-industries
+3786927088,"HYATT Hotels · Hyderabad, Telangana, India  2 days ago  · 10 applicants",Sales Executive,1836,hyatt-hotels
+3779394420,"Amazon · Bengaluru, Karnataka, India Reposted  1 week ago  · 83 applicants","Manager, Sales, SSR, Selling Partner Services",1837,amazon
+3704887699,"Bengaluru, Karnataka, India On-site",Territory Sales Engineer,1838,videojet
+3781735873,"Pune, Maharashtra, India",AssocDir-Sales,1840,the-ritz-carlton-hotel-company-llc
+3783716296,"IDFC FIRST Bank · Karnataka, India  1 week ago  · 42 applicants",Relationship Manager-Auto/CV,1842,idfcfirstbank
+3784591896,"Capgemini · Bengaluru, Karnataka, India  6 days ago  · 16 applicants",IMS Solution Specialist | 12 to 18 Years | Mumbai & Bangalore,1861,capgemini
+3775903074,"Marriott Hotels · Jaisalmer, Rajasthan, India Reposted  1 week ago  · 6 applicants",Executive-Sales,1862,marriott_hotels_resorts
+3750157398,"Emerson · Chennai, Tamil Nadu, India Reposted  1 week ago  · Over 100 applicants",Technical Inside sales,1863,emerson
+3740188090,Cargill · Greater Kolkata Area Reposted  1 day ago  · Over 100 applicants,Sales Executive - Modern Trade,1866,cargill
+3774156485,"SAMS ADVANCED CLIMATIC TECHNOLOGIES PVT. LTD. · Bengaluru, Karnataka, India  2 weeks ago  · 18 applicants",Sales Engineer - B2B - Climatic Technologies,1867,sams-advance-climatic-technologies
+3777856835,"Warangal, Telangana, India Hybrid",AGM - Area Sales,1886,vodafone-idea-limited
+3778872709,"Fairfield by Marriott · Amritsar, Punjab, India  1 week ago  · 1 applicant",AsstMgr-Sales I,1890,fairfield_by_marriott
+3768138863,"Karnataka, India On-site",Relationship Manager-HL/LAP,1891,idfcfirstbank
+3787658707,"Andhra Pradesh, India On-site",Relationship Manager,1911,hdfc-bank
+3790811002,"Mumbai, Maharashtra, India",Territory Business Manager - Infinia | Goa,1915,abbott-
+3773526958,"ARK Infosolutions Pvt. Ltd. · Mumbai, Maharashtra, India  2 weeks ago  · 73 applicants",Executive - Inside Sales (IT Products),1963,arkinfosolutionspvtltd
+3778469264,"Chennai, Tamil Nadu, India On-site",Pricing Executive,1965,houseofshipping
+3772206319,"Fairfield by Marriott · Amritsar, Punjab, India  2 weeks ago  · 32 applicants",Asst. Director of Sales,1966,fairfield_by_marriott
+3781739426,"Pune, Maharashtra, India",AssocDir-Sales,1967,the-ritz-carlton-hotel-company-llc
+3778877197,"Fairfield by Marriott · Amritsar, Punjab, India  1 week ago  · 3 applicants",AsstMgr-Sales I,1989,fairfield_by_marriott
+3770449061,"Bengaluru, Karnataka, India On-site","Sr Manager , Presales (Data & AI)",1991,databricks
+3777061153,"Bengaluru, Karnataka, India Hybrid",Marketing Specialist - Reporting,2018,gallagher-global
+3765094472,"New Delhi, Delhi, India On-site",Quality Analyst,2019,unayur-marketing-pvt-ltd
+3774071763,"Gurugram, Haryana, India On-site",AI QA Analyst,2023,insight
+3741563096,"Andhra Pradesh, India Hybrid",ETL Tester,2024,virtusa
+3746239232,"StockGro · Bengaluru, Karnataka, India Reposted 3 weeks ago · Over 100 applicants",Quality Assurance Engineer,2025,stockgro
+3765094472,"UNAYUR MARKETING PVT LTD (UMPL) · New Delhi, Delhi, India 4 weeks ago · Over 100 applicants",Quality Analyst,2026,unayur-marketing-pvt-ltd
+3765094472,"UNAYUR MARKETING PVT LTD (UMPL) · New Delhi, Delhi, India 4 weeks ago · Over 100 applicants",Quality Analyst,2027,unayur-marketing-pvt-ltd
+3752823069,"Chennai, Tamil Nadu, India On-site",Quality Engineer - Python Automation,2045,tiger-analytics
+3744760284,"Virtusa · Chennai, Tamil Nadu, India Reposted 2 weeks ago · Over 100 applicants",ETL Tester,2046,virtusa
+3773536109,"Creditsafe Technology · Hyderabad, Telangana, India 2 weeks ago · Over 100 applicants",Data Tester,2047,creditsafe-technology
+3789324019,"Mumbai, Maharashtra, India On-site",QA Engineer,2069,adform
+3781585092,"Andhra Pradesh, India Hybrid",ETL Tester,2070,virtusa
+3785350751,"Chennai, Tamil Nadu, India On-site",Quality Analyst,2071,guidehouse
+3778154915,"Virtusa · Chennai, Tamil Nadu, India 2 weeks ago · Over 100 applicants",ETL Tester,2072,virtusa
+3775437867,"Zeta · Bengaluru, Karnataka, India 2 weeks ago · Over 100 applicants",Software Development Engineer in Test I,2073,zetasuite
+3783360501,"SAIN MEDICAMENTS PVT. LTD · Uppal, Telangana, India 2 days ago · Over 100 applicants",Quality Assurance Assistant,2074,sain-medicaments-pvt-ltd
+3776981285,"Chennai, Tamil Nadu, India Hybrid",ETL Testing,2095,virtusa
+3782213955,"Trivandrum, Kerala, India On-site",Quality Assurance Manager,2096,rrd-gocreative
+3766203551,"SatSure · Bengaluru, Karnataka, India Reposted 2 days ago · Over 100 applicants",Quality Assurance Engineer,2099,satsure
+3767571113,"Bengaluru, Karnataka, India On-site",Test Specialist,2100,kpit
+3771371174,"Hitachi Vantara · Hyderabad, Telangana, India Reposted 1 week ago · Over 100 applicants",Software Developer Engineer (Test),2121,hitachi-vantara
+3779908377,"Chennai, Tamil Nadu, India",Automation Python Backend Testing (RTD),2145,cgi
+3781841554,"InfraCloud Technologies · Bengaluru, Karnataka, India 1 week ago · 81 applicants",QA Developer,2146,infracloudio
+3778376747,"WinZO · Delhi, India 2 weeks ago · Over 100 applicants",Quality Assurance Engineer,2147,winzogames
+3773043540,"o9 Solutions, Inc. · Bengaluru, Karnataka, India 2 weeks ago · Over 100 applicants",Quality Assurance Architect,2148,o9solutions
+3773801373,"Synechron · Pune, Maharashtra, India 2 weeks ago · Over 100 applicants",ETL Tester with Python/Java Automation,2149,synechron
+3779909054,"CGI · Chennai, Tamil Nadu, India 2 weeks ago · 41 applicants",Automation Python Backend Testing,2150,cgi
+3789305050,"Andhra Pradesh, India Hybrid",Cypress Testing,2173,virtusa
+3744377869,Esko · Greater Kolkata Area Reposted 1 week ago · Over 100 applicants,QA Engineer I,2174,esko
+3770027926,"Andhra Pradesh, India Hybrid",QA Automation Tester,2175,virtusa
+3774378790,"Palo Alto Networks · Bengaluru, Karnataka, India 2 weeks ago · 81 applicants",Competitive Test Analyst -(Solution test)- NetSec,2176,palo-alto-networks
+3774378790,"Palo Alto Networks · Bengaluru, Karnataka, India 2 weeks ago · 81 applicants",Competitive Test Analyst -(Solution test)- NetSec,2177,palo-alto-networks
+3778816915,"Bengaluru, Karnataka, India",Translation PODs - Sr Testers (python & pytest),2194,harman-international
+3761467078,"Calypso Technology · Mumbai, Maharashtra, India Reposted 1 week ago · Over 100 applicants","QA Analyst, Regulatory Solutions",2195,calypso-technology
+3784135740,"Uppal, Telangana, India On-site",Validation Analyst,2196,sain-medicaments-pvt-ltd
+3783370440,"Loyalty Juggernaut · Hyderabad, Telangana, India 2 days ago · Over 100 applicants",QA Specialist (Mobile Testing),2197,loyalty-juggernaut
+3775709073,"Gurugram, Haryana, India On-site",QA Engineer,2198,insight
+3705349679,"Sriperumbudur, Tamil Nadu, India On-site",Engineer Testing,2199,flexintl
+3742759069,"Avantor · Dehradun, Uttarakhand, India Reposted 2 weeks ago · Over 100 applicants",Officer - Quality Assurance,2200,avantorinc
+3784494866,"Infogain · Bengaluru, Karnataka, India 13 hours ago · Over 100 applicants",Test Engineer,2219,infogain
+3726255097,Greater Bengaluru Area Remote,SDET 1 - Backend/API Testing,2223,plivo-inc
+3779040902,"Bengaluru, Karnataka, India On-site",Assoc Quality Assurance Engineer,2224,aci-worldwide
+3683764583,"Virtusa · Andhra Pradesh, India Reposted 1 week ago · Over 100 applicants",Automation Tester,2225,virtusa
+3761816734,"Nasdaq · Bengaluru East, Karnataka, India Reposted 1 week ago · Over 100 applicants",QA Test Specialist - Python Automation,2227,nasdaq
+3774071763,"Gurugram, Haryana, India On-site",AI QA Analyst,2228,insight
+3764401590,"Roche · Pune, Maharashtra, India 1 month ago · 50 applicants",Data QA Analyst (Machine Learning),2229,roche
+3747029622,"HARMAN International · Bengaluru, Karnataka, India Reposted 2 days ago · Over 100 applicants",Infotainment Testing with python added advantage,2230,harman-international
+3786905142,"Woliba · Pune, Maharashtra, India 3 days ago · Over 100 applicants",Quality Assurance Analyst,2231,wolibawellness
+3766274098,"Juniper Networks · Bengaluru, Karnataka, India Reposted 2 days ago · Over 100 applicants",Software Engineer - Data Steward + QA,2232,juniper-networks
+3752822139,"Tiger Analytics · Bengaluru, Karnataka, India Reposted 3 weeks ago · Over 100 applicants",Quality Engineer - Python Automation,2251,tiger-analytics
+3765118789,"o9 Solutions, Inc. · Bengaluru, Karnataka, India 3 weeks ago · Over 100 applicants",Quality Assurance Engineer,2253,o9solutions
+3779147717,"Karnataka, India On-site",Quality Assurance Analyst,2254,investcloud
+3785350490,"Pesto Tech · Noida, Uttar Pradesh, India 5 days ago · Over 100 applicants",Quality Assurance Engineer,2256,pestotech
+3781182236,Zowork · India 6 days ago · Over 100 applicants,Quality Assurance Engineer,2257,zowork
+3744100473,"Infosys · Bengaluru East, Karnataka, India Reposted 2 weeks ago · Over 100 applicants",Automation testing with Robot Framework using Python programming language,2276,infosys
+3783615868,"Deutsche Bank · Pune, Maharashtra, India 1 week ago · Over 100 applicants",Manual and Automation Testing( using Selenium and Java),2278,deutsche-bank
+3767573589,"Wipro · Bengaluru, Karnataka, India 3 weeks ago · Over 100 applicants",Junior Safety test engineer,2279,wipro
+3649627898,"Michael Page · Pune, Maharashtra, India 5 months ago · 99 applicants",Python Automation tester,2280,michael-page
+3774893206,"Gurugram, Haryana, India Hybrid",Automation QA,2282,capgemini-engineering
+3773043540,"o9 Solutions, Inc. · Bengaluru, Karnataka, India 2 weeks ago · Over 100 applicants",Quality Assurance Architect,2301,o9solutions
+3780543599,"CGI · Chennai, Tamil Nadu, India 2 weeks ago · 36 applicants",Automation Python Backend Testing,2302,cgi
+3781841554,"Bengaluru, Karnataka, India Hybrid",QA Developer,2326,infracloudio
+3788075765,"Virtusa · Andhra Pradesh, India 4 days ago · 39 applicants",Cypress testing,2328,virtusa
+3771374490,"Nutanix · Bengaluru, Karnataka, India Reposted 1 day ago · 61 applicants",MTS - QA | Cloud Native,2329,nutanix
+3774191036,"Thriving Springs AI · Hyderabad, Telangana, India 2 weeks ago · Over 100 applicants",Quality Assurance Engineer,2330,thriving-springs
+3773801373,"Synechron · Pune, Maharashtra, India 3 weeks ago · Over 100 applicants",ETL Tester with Python/Java Automation,2331,synechron
+3779087344,"NTT DATA Services · Gurgaon, Haryana, India 2 weeks ago · Over 100 applicants",QA Analyst,2332,ntt-data-americas
+3787639920,"CareerXperts Consulting  · Bengaluru, Karnataka, India 2 days ago · 51 applicants",Data Quality Engineer - FinTech Platform - Data Warehousing / Big Data / PySpark / Automation Framework - Bengaluru,2352,careerxperts-consulting
+3775709073,"Gurugram, Haryana, India On-site",QA Engineer,2353,insight
+3746239232,"StockGro · Bengaluru, Karnataka, India Reposted 3 weeks ago · Over 100 applicants",Quality Assurance Engineer,2354,stockgro
+3774026973,"Micron Technology · Sanand, Gujarat, India Reposted 52 seconds ago · 78 applicants",QA Technician,2356,micron-technology
+3758741609,"Pune, Maharashtra, India Hybrid",QA Analyst II,2377,quorum-software
+3786895866,"Alight Solutions · Hyderabad, Telangana, India Reposted 6 days ago · Over 100 applicants","QA & Compliance, Testing Specialist",2378,alightsolutions
+3650177246,"Cockroach Labs · Bengaluru, Karnataka, India Reposted 4 weeks ago · Over 100 applicants","Software Engineer - Backend (Test Infrastructure) - Bangalore, India",2382,cockroach-labs
+3779906751,"CGI · Chennai, Tamil Nadu, India 2 weeks ago · 22 applicants",Automation Python Backend Testing (RTD),2401,cgi
+3764378573,"Destm Technologies · Sahibzada Ajit Singh Nagar, Punjab, India Reposted 2 days ago · Over 100 applicants",Automation Test Analyst,2402,destm-technologies
+3778848306,"Amdocs · Pune, Maharashtra, India 1 week ago · 22 applicants",NF Test Specialist,2403,amdocs
+3774853843,"IBM · Kochi, Kerala, India 2 weeks ago · 100 applicants",QA Engineer,2404,ibm
+3772220183,"IBM · Bengaluru East, Karnataka, India 2 weeks ago · Over 100 applicants",QA Engineer,2405,ibm
+3761464410,"Pune, Maharashtra, India Hybrid","Associate QA Analyst, Regulatory Solutions",2406,calypso-technology
+3779339935,"Wipro · Pune, Maharashtra, India 1 week ago · Over 100 applicants",Devops - Quality assurance & deployements -Pune,2407,wipro
+3534215772,Greater Hyderabad Area Remote,Software Test Engineer (Data Analytics & Cyber Intelligence),2427,s2tcyber
+3782101729,"Synchronoss Technologies · Bengaluru, Karnataka, India 1 week ago · Over 100 applicants",BigData Testing Engineer,2428,synchronoss-technologies
+3675441044,"SITA · Delhi, Delhi, India Reposted 2 weeks ago · Over 100 applicants",Quality Engineering Analyst,2429,sita
+3784024547,"Capgemini Engineering · Bengaluru, Karnataka, India 2 days ago · 65 applicants",Embedded Testing(Python Automation),2430,capgemini-engineering
+3782813096,"Kochi, Kerala, India On-site",QA Engineer,2431,ibm
+3766203551,"Bengaluru, Karnataka, India On-site",Quality Assurance Engineer,2432,satsure
+3779909053,"Chennai, Tamil Nadu, India",Automation Python Backend Testing (RTD),2451,cgi
+3744106442,"Nutanix · Bengaluru, Karnataka, India Reposted 1 month ago · Over 100 applicants","SDET- Automation Engineer [Python,Kubernetes,Jenkins]",2453,nutanix
+3772219173,"Bengaluru East, Karnataka, India On-site",QA Engineer,2454,ibm
+3710629697,"VIAVI Solutions · Chennai, Tamil Nadu, India 3 months ago · Over 100 applicants",Software QA Engineer 1-2,2455,viavi-solutions
+3782811335,"IBM · Kochi, Kerala, India Reposted 5 days ago · 87 applicants",QA Engineer,2456,ibm
