@@ -1,5 +1,2 @@
 selenium
-csv
-os
-dataclasses
 pandas
