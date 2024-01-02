@@ -38,7 +38,6 @@ Before starting, ensure you have the following installed:
     pip install selenium
     pip install dataclasses
     pip install pandas
-    pip install beautifulsoup
     
     ```
   
@@ -144,7 +143,7 @@ Plans for future enhancements include:
 ## Contact
 For queries or contributions, contact me at sakshisanghi0001@gmail.com
 
-https://github.com/shithead999
+
 
 ## Acknowledgments
 This project was completed during my internship at [Geekster](https://www.geekster.in/).
